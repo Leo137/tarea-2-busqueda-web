@@ -1,0 +1,33 @@
+Topic 0
+   x: 154.03
+   space: 152.03
+   system: 108.03
+   non: 73.03
+   xe: 59.03
+   set: 57.03
+   surface: 55.03
+   time: 53.03
+   generalized: 51.03
+   theorem: 49.03
+Topic 1
+   group: 140.03
+   function: 132.03
+   algebra: 107.03
+   operator: 103.03
+   finite: 97.03
+   graph: 85.03
+   random: 83.03
+   polynomial: 79.03
+   n: 65.03
+   p: 59.03
+Topic 2
+   equation: 136.03
+   problem: 98.03
+   field: 92.03
+   quantum: 90.03
+   theory: 90.03
+   model: 88.03
+   solution: 75.03
+   matrix: 65.03
+   bound: 53.03
+   differential: 50.03

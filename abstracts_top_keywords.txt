@@ -1,0 +1,33 @@
+Topic 0
+   c: 4989.03
+   t: 4465.03
+   mallet: 3768.03
+   sq: 3759.03
+   xw: 3747.03
+   otros: 3742.03
+   abstracts: 3742.03
+   w: 3250.03
+   z: 2616.03
+   q: 2561.03
+Topic 1
+   n: 929.03
+   space: 583.03
+   k: 467.03
+   group: 446.03
+   prove: 392.03
+   x: 385.03
+   set: 328.03
+   finite: 315.03
+   show: 310.03
+   g: 308.03
+Topic 2
+   equation: 374.03
+   problem: 356.03
+   function: 326.03
+   condition: 319.03
+   two: 314.03
+   one: 304.03
+   system: 302.03
+   time: 298.03
+   paper: 288.03
+   result: 262.03

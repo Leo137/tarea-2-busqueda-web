@@ -1,0 +1,33 @@
+Topic 0
+   time: 351.03
+   model: 337.03
+   two: 325.03
+   system: 298.03
+   random: 291.03
+   method: 269.03
+   paper: 258.03
+   bound: 244.03
+   process: 231.03
+   state: 216.03
+Topic 1
+   n: 1194.03
+   x: 714.03
+   k: 638.03
+   group: 587.03
+   p: 529.03
+   g: 523.03
+   d: 463.03
+   s: 448.03
+   c: 411.03
+   algebra: 401.03
+Topic 2
+   space: 735.03
+   equation: 510.03
+   theory: 415.03
+   field: 382.03
+   operator: 354.03
+   non: 323.03
+   solution: 320.03
+   study: 281.03
+   dimensional: 278.03
+   condition: 268.03
